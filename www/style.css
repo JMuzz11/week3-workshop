@@ -1,0 +1,16 @@
+.hidemessage {
+    display: none;
+    background-color: white;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+#errormsg {
+    display: none;
+    background-color: white;
+    color: black;
+}
+ 
